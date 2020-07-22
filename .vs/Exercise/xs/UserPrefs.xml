@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BF941C01-E3AA-4F40-AEB9-BF478853FC63}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exercise FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise/Program.cs">
+    <Files>
+      <File FileName="Exercise/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise" expanded="True">
+            <Node name="Exercise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Work/k3/k3_app/Assets/Scripts/Core/Services/ProfileService.cs" line="114" column="16" endLine="114" endColumn="89" offsetX="-1" offsetY="-1" expression="receivedJason" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

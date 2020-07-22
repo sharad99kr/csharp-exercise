@@ -1,0 +1,6 @@
+/Users/sharad9kumar/Projects/Exercise/Exercise/bin/Debug/Exercise.exe
+/Users/sharad9kumar/Projects/Exercise/Exercise/bin/Debug/Exercise.pdb
+/Users/sharad9kumar/Projects/Exercise/Exercise/obj/Debug/Exercise.csprojAssemblyReference.cache
+/Users/sharad9kumar/Projects/Exercise/Exercise/obj/Debug/Exercise.csproj.CoreCompileInputs.cache
+/Users/sharad9kumar/Projects/Exercise/Exercise/obj/Debug/Exercise.exe
+/Users/sharad9kumar/Projects/Exercise/Exercise/obj/Debug/Exercise.pdb
