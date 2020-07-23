@@ -9,13 +9,13 @@ namespace Exercise {
             foreach (int item in unsorted) {
                 Console.WriteLine(item);
             }
-            int mainCount = 0;
+           
             for(int x = 1; x < unsorted.Length; x++) {
                 int i = x;
                 int j = i-1;
                 bool stop = false;
                 while (j >= 0 && !stop) {
-                    mainCount++;
+                   
                     if (unsorted[i] < unsorted[j]) {
                         int temp= unsorted[j];
                         unsorted[j] = unsorted[i];
@@ -29,7 +29,7 @@ namespace Exercise {
                 }
             }
 
-            Console.WriteLine("sorted array : "+ mainCount);
+            Console.WriteLine("sorted array : ");
 
             foreach (int item in unsorted) {
                 Console.WriteLine(item);
