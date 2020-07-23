@@ -2,7 +2,7 @@
 
 namespace Exercise {
     class MainClass {
-        public static void Main(string[] args) {
+        public static void Main2(string[] args) {
             
             int[] unsortedArray = { 3, 2, 1, 4, 5, 6, 7, 8, 9, 10 };
             Console.WriteLine("Un sorted array : ");
