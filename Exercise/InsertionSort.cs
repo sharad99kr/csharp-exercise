@@ -2,7 +2,7 @@
 
 namespace Exercise {
     public class InsertionSort {
-        public static void Main() {
+        public static void Main3() {
             int[] unsorted = { 14,4,1,8,7,3,9,6,2};
             Console.WriteLine("Un sorted array : ");
 
