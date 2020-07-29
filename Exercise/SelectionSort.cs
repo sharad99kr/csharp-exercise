@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Exercise {
     public class SelectionSort {
-        public static void Main() {
+        public static void Main4() {
             int[] arr = { 4, 9, 5, 1, 6, 2, 8, 10, 3 };
 
             Console.Write("Un sorted array : ");
