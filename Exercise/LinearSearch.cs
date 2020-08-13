@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Exercise {
     public class LinearSearch {
-        public static void Main() {
+        public static void Main6() {
             int[] arr = { 4, 9, 5, 1, 6, 2, 8, 10, 3, 12, 15, 17, 19, 11, 13, 16, 14 };
             Console.Write("Un sorted array : ");
 
